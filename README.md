@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Choice of button text questionable :-P but overall a *really* nice job! Great comments as well.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
